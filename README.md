@@ -1,4 +1,4 @@
-[]()![Alt text](/Parking Lot.png?raw=true "Parking Lot Manager")
+<img src="Parking Lot.png" alt="Parking Lot">
 
 **Resumo**
 
